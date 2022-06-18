@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# GitFlow Practive
+# GitFlow Practice
 
-> Udernstanding the difference between GitFlow and GitHub flow.
+> Uderstanding the difference between GitFlow and GitHub flow.
 
 
 ## Built With
 
 - Git
-- HTML5
+- Text
 
 ## Live Demo (if available)
 
